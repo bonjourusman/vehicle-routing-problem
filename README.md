@@ -5,6 +5,6 @@ This notebook is based on the Clarke-Wright Savings Algorithm, which can be foun
 
 The sole parameter required is the maximum number of visits per route, namely "max_visits".
 
-In this notebook, 50 locations are generated randomly on an xy-plane, and the algorithm computes the route combinations that result in the greatest savings. The routes generated can be visualized at the end of the notebook.
+In this notebook, 50 locations are generated randomly on an xy-coordinate plane, and the algorithm computes the route combinations that result in the greatest savings. The routes generated can be visualized at the end of the notebook.
 
 Because of the flexible nature of this algorithm, additional parameters can also be added for greater complexity.
